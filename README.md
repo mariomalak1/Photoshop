@@ -1,4 +1,5 @@
-"# Photoshop" 
+# Photoshop 
+
 This an assignment for the Programming course where we developed an application that takes a photo (can take rgb image)and can create many functionalities such as:
 
 1- Black & White Filter
